@@ -4,9 +4,9 @@
 ### Training Example
 
 
-## Citation and Acknowledgements
+## 📜 Citation
 
-If citing the paper, please use the following BibTeX:
+If you use this code or the LoopTabFM algorithm in your research, please cite:
 
 ```
 @article{li2025,
