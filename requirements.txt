@@ -1,0 +1,15 @@
+# LoopTabFM Dependencies
+# Core ML and Data Handling
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Dataset Access
+openml
+
+# The Tabular Foundation Model (Version used in the paper)
+tabpfn==2.0.9
+
+# Output and Export
+xlsxwriter
