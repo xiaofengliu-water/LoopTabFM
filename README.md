@@ -5,7 +5,7 @@
 [![arxiv](https://img.shields.io/static/v1?label=arXiv&message=2410.18164&color=B31B1B&logo=arXiv)](https://arxiv.org/abs/2506.15329)
 </div>
 
-This repository contains the official implementation of **LoopTabFM** proposed in our paper:
+This repository contains the official implementation of **LoopTabFM** proposed in our paper in NeurIPS 2025:
 
 > **[When and How Unlabeled Data Provably Improve In-Context Learning](https://arxiv.org/abs/2506.15329)**
 > 
